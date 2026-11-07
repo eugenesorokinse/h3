@@ -1,0 +1,348 @@
+Ball,Datasheet name,Symbol label,Unit,Function,Electrical type
+T17,SA0,SA0,1,DDR3 memory,bidirectional
+U18,SA1,SA1,1,DDR3 memory,bidirectional
+V19,SA2,SA2,1,DDR3 memory,bidirectional
+V20,SA3,SA3,1,DDR3 memory,bidirectional
+V21,SA4,SA4,1,DDR3 memory,bidirectional
+Y19,SA5,SA5,1,DDR3 memory,bidirectional
+Y20,SA6,SA6,1,DDR3 memory,bidirectional
+V15,SA7,SA7,1,DDR3 memory,bidirectional
+W18,SA8,SA8,1,DDR3 memory,bidirectional
+Y18,SA9,SA9,1,DDR3 memory,bidirectional
+P19,SA10,SA10,1,DDR3 memory,bidirectional
+N19,SA11,SA11,1,DDR3 memory,bidirectional
+R18,SA12,SA12,1,DDR3 memory,bidirectional
+V12,SA13,SA13,1,DDR3 memory,bidirectional
+N17,SA14,SA14,1,DDR3 memory,bidirectional
+R17,SA15,SA15,1,DDR3 memory,bidirectional
+W17,SBA0,SBA0,1,DDR3 memory,output
+T18,SBA1,SBA1,1,DDR3 memory,output
+V17,SBA2,SBA2,1,DDR3 memory,output
+U15,SCAS,SCAS,1,DDR3 memory,output
+V13,SRAS,SRAS,1,DDR3 memory,output
+U16,SRST,SRST,1,DDR3 memory,output
+W13,SWE,SWE,1,DDR3 memory,output
+AA19,SCK,SCK,1,DDR3 memory,output
+AA20,SCKB,SCKB,1,DDR3 memory,output
+AA21,SCKE0,SCKE0,1,DDR3 memory,output
+Y21,SCKE1,SCKE1,1,DDR3 memory,output
+W20,SCS0,SCS0,1,DDR3 memory,output
+W21,SCS1,SCS1,1,DDR3 memory,output
+W11,SODT0,SODT0,1,DDR3 memory,output
+V11,SODT1,SODT1,1,DDR3 memory,output
+V10,SZQ,SZQ,1,DDR3 memory,passive
+N20,SDQ0,SDQ0,1,DDR3 memory,bidirectional
+P21,SDQ1,SDQ1,1,DDR3 memory,bidirectional
+P20,SDQ2,SDQ2,1,DDR3 memory,bidirectional
+U21,SDQ3,SDQ3,1,DDR3 memory,bidirectional
+R19,SDQ4,SDQ4,1,DDR3 memory,bidirectional
+T20,SDQ5,SDQ5,1,DDR3 memory,bidirectional
+U19,SDQ6,SDQ6,1,DDR3 memory,bidirectional
+U20,SDQ7,SDQ7,1,DDR3 memory,bidirectional
+M20,SDQM0,SDQM0,1,DDR3 memory,output
+R20,SDQS0,SDQS0,1,DDR3 memory,bidirectional
+R21,SDQS0B,SDQS0B,1,DDR3 memory,bidirectional
+J19,SDQ8,SDQ8,1,DDR3 memory,bidirectional
+H20,SDQ9,SDQ9,1,DDR3 memory,bidirectional
+H21,SDQ10,SDQ10,1,DDR3 memory,bidirectional
+J21,SDQ11,SDQ11,1,DDR3 memory,bidirectional
+L20,SDQ12,SDQ12,1,DDR3 memory,bidirectional
+L21,SDQ13,SDQ13,1,DDR3 memory,bidirectional
+M21,SDQ14,SDQ14,1,DDR3 memory,bidirectional
+M19,SDQ15,SDQ15,1,DDR3 memory,bidirectional
+G20,SDQM1,SDQM1,1,DDR3 memory,output
+K20,SDQS1,SDQS1,1,DDR3 memory,bidirectional
+J20,SDQS1B,SDQS1B,1,DDR3 memory,bidirectional
+Y17,SDQ16,SDQ16,1,DDR3 memory,bidirectional
+AA17,SDQ17,SDQ17,1,DDR3 memory,bidirectional
+Y16,SDQ18,SDQ18,1,DDR3 memory,bidirectional
+W15,SDQ19,SDQ19,1,DDR3 memory,bidirectional
+Y14,SDQ20,SDQ20,1,DDR3 memory,bidirectional
+AA14,SDQ21,SDQ21,1,DDR3 memory,bidirectional
+Y13,SDQ22,SDQ22,1,DDR3 memory,bidirectional
+Y12,SDQ23,SDQ23,1,DDR3 memory,bidirectional
+AA18,SDQM2,SDQM2,1,DDR3 memory,output
+AA15,SDQS2,SDQS2,1,DDR3 memory,bidirectional
+Y15,SDQS2B,SDQS2B,1,DDR3 memory,bidirectional
+W12,SDQ24,SDQ24,1,DDR3 memory,bidirectional
+AA11,SDQ25,SDQ25,1,DDR3 memory,bidirectional
+Y11,SDQ26,SDQ26,1,DDR3 memory,bidirectional
+Y10,SDQ27,SDQ27,1,DDR3 memory,bidirectional
+W9,SDQ28,SDQ28,1,DDR3 memory,bidirectional
+AA8,SDQ29,SDQ29,1,DDR3 memory,bidirectional
+Y8,SDQ30,SDQ30,1,DDR3 memory,bidirectional
+Y7,SDQ31,SDQ31,1,DDR3 memory,bidirectional
+AA12,SDQM3,SDQM3,1,DDR3 memory,output
+AA9,SDQS3,SDQS3,1,DDR3 memory,bidirectional
+Y9,SDQS3B,SDQS3B,1,DDR3 memory,bidirectional
+A17,PC5,PC5/SDC2_CLK,2,eMMC - SDC2,bidirectional
+E16,PC6,PC6/SDC2_CMD,2,eMMC - SDC2,bidirectional
+B18,PC8,PC8/SDC2_D0,2,eMMC - SDC2,bidirectional
+C17,PC9,PC9/SDC2_D1,2,eMMC - SDC2,bidirectional
+D17,PC10,PC10/SDC2_D2,2,eMMC - SDC2,bidirectional
+C18,PC11,PC11/SDC2_D3,2,eMMC - SDC2,bidirectional
+B17,PC12,PC12/SDC2_D4,2,eMMC - SDC2,bidirectional
+B19,PC13,PC13/SDC2_D5,2,eMMC - SDC2,bidirectional
+F17,PC14,PC14/SDC2_D6,2,eMMC - SDC2,bidirectional
+C19,PC15,PC15/SDC2_D7,2,eMMC - SDC2,bidirectional
+H16,PC16,PC16/SDC2_RST,2,eMMC - SDC2,bidirectional
+D19,PF0,PF0/SDC0_D1,3,SD card - SDC0,bidirectional
+A19,PF1,PF1/SDC0_D0,3,SD card - SDC0,bidirectional
+E21,PF4,PF4/SDC0_D3,3,SD card - SDC0,bidirectional
+C20,PF5,PF5/SDC0_D2,3,SD card - SDC0,bidirectional
+D20,PF2,PF2/SDC0_CLK,3,SD card - SDC0,bidirectional
+F18,PF3,PF3/SDC0_CMD,3,SD card - SDC0,bidirectional
+G18,PF6,PF6/SDC0_DET,3,SD card - SDC0,bidirectional
+A2,EPHY_LINK_LED,EPHY_LINK_LED,4,Ethernet PHY and MAC,passive
+F7,EPHY_SPD_LED,EPHY_SPD_LED,4,Ethernet PHY and MAC,passive
+F6,EPHY_RTX,EPHY_RTX,4,Ethernet PHY and MAC,passive
+A4,EPHY_RXN,EPHY_RXN,4,Ethernet PHY and MAC,passive
+B4,EPHY_RXP,EPHY_RXP,4,Ethernet PHY and MAC,passive
+A3,EPHY_TXN,EPHY_TXN,4,Ethernet PHY and MAC,passive
+B3,EPHY_TXP,EPHY_TXP,4,Ethernet PHY and MAC,passive
+C21,PD0,PD0/RGMII_RXD3,4,Ethernet PHY and MAC,bidirectional
+H17,PD1,PD1/RGMII_RXD2,4,Ethernet PHY and MAC,bidirectional
+B20,PD2,PD2/RGMII_RXD1,4,Ethernet PHY and MAC,bidirectional
+H18,PD3,PD3/RGMII_RXD0,4,Ethernet PHY and MAC,bidirectional
+A20,PD4,PD4/RGMII_RXCK,4,Ethernet PHY and MAC,bidirectional
+F19,PD5,PD5/RGMII_RXCTL,4,Ethernet PHY and MAC,bidirectional
+B21,PD6,PD6/MII_RXERR,4,Ethernet PHY and MAC,bidirectional
+E18,PD7,PD7/RGMII_TXD3,4,Ethernet PHY and MAC,bidirectional
+E20,PD8,PD8/RGMII_TXD2,4,Ethernet PHY and MAC,bidirectional
+F21,PD9,PD9/RGMII_TXD1,4,Ethernet PHY and MAC,bidirectional
+H19,PD10,PD10/RGMII_TXD0,4,Ethernet PHY and MAC,bidirectional
+F20,PD11,PD11/MII_CRS,4,Ethernet PHY and MAC,bidirectional
+E19,PD12,PD12/RGMII_TXCK,4,Ethernet PHY and MAC,bidirectional
+K17,PD13,PD13/RGMII_TXCTL,4,Ethernet PHY and MAC,bidirectional
+L17,PD14,PD14/MII_TXERR,4,Ethernet PHY and MAC,bidirectional
+K18,PD15,PD15/RGMII_CLKIN,4,Ethernet PHY and MAC,bidirectional
+L18,PD16,PD16/MDC,4,Ethernet PHY and MAC,bidirectional
+L19,PD17,PD17/MDIO,4,Ethernet PHY and MAC,bidirectional
+J3,PG0,PG0/SDC1_CLK,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+L2,PG1,PG1/SDC1_CMD,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+H4,PG2,PG2/SDC1_D0,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+F3,PG3,PG3/SDC1_D1,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+C2,PG4,PG4/SDC1_D2,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+C1,PG5,PG5/SDC1_D3,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+G4,PG6,PG6/UART1_TX,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+D3,PG7,PG7/UART1_RX,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+C3,PG8,PG8/UART1_RTS,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+E3,PG9,PG9/UART1_CTS,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+M3,PG10,PG10/PCM1_SYNC,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+D2,PG11,PG11/PCM1_CLK,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+D1,PG12,PG12/PCM1_DOUT,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+B1,PG13,PG13/PCM1_DIN,5,Wi-Fi SDIO and Bluetooth UART PCM,bidirectional
+A5,USB_DP0,USB_DP0,6,USB0 OTG and USB1-3 host,passive
+B5,USB_DM0,USB_DM0,6,USB0 OTG and USB1-3 host,passive
+B6,USB_DP1,USB_DP1,6,USB0 OTG and USB1-3 host,passive
+B7,USB_DM1,USB_DM1,6,USB0 OTG and USB1-3 host,passive
+A7,USB_DP2,USB_DP2,6,USB0 OTG and USB1-3 host,passive
+A8,USB_DM2,USB_DM2,6,USB0 OTG and USB1-3 host,passive
+B8,USB_DP3,USB_DP3,6,USB0 OTG and USB1-3 host,passive
+B9,USB_DM3,USB_DM3,6,USB0 OTG and USB1-3 host,passive
+G5,HCEC,HCEC,7,HDMI,passive
+M2,HHPD,HHPD,7,HDMI,input
+H3,HSCL,HSCL,7,HDMI,passive
+K3,HSDA,HSDA,7,HDMI,passive
+F1,HTX0N,HTX0N,7,HDMI,output
+G1,HTX0P,HTX0P,7,HDMI,output
+G2,HTX1N,HTX1N,7,HDMI,output
+H2,HTX1P,HTX1P,7,HDMI,output
+J2,HTX2N,HTX2N,7,HDMI,output
+J1,HTX2P,HTX2P,7,HDMI,output
+E2,HTXCN,HTXCN,7,HDMI,output
+F2,HTXCP,HTXCP,7,HDMI,output
+V1,LINEINL,LINEINL,8,Audio codec and TV,input
+W1,LINEINR,LINEINR,8,Audio codec and TV,input
+AA3,LINEOUTL,LINEOUTL,8,Audio codec and TV,output
+Y3,LINEOUTR,LINEOUTR,8,Audio codec and TV,output
+W3,MBIAS,MBIAS,8,Audio codec and TV,output
+Y1,MICIN1N,MICIN1N,8,Audio codec and TV,input
+W2,MICIN1P,MICIN1P,8,Audio codec and TV,input
+AA2,MICIN2N,MICIN2N,8,Audio codec and TV,input
+Y2,MICIN2P,MICIN2P,8,Audio codec and TV,input
+F10,TVOUT,TVOUT,8,Audio codec and TV,output
+Y4,VRA1,VRA1,8,Audio codec and TV,passive
+W5,VRA2,VRA2,8,Audio codec and TV,passive
+V4,VRP,VRP,8,Audio codec and TV,passive
+A1,JTAG-SEL0,JTAG-SEL0,9,Clocks reset and boot,input
+B2,JTAG-SEL1,JTAG-SEL1,9,Clocks reset and boot,input
+AA5,KEYADC,KEYADC,9,Clocks reset and boot,input
+K4,NC,NC,9,Clocks reset and boot,no_connect
+AA6,NMI,NMI,9,Clocks reset and boot,input
+V6,RESET,RESET,9,Clocks reset and boot,input
+L5,PLLTEST,PLLTEST,9,Clocks reset and boot,passive
+T5,TEST,TEST,9,Clocks reset and boot,input
+W6,UBOOT,UBOOT,9,Clocks reset and boot,input
+T10,VDD-CPUFB,VDD-CPUFB,9,Clocks reset and boot,bidirectional
+K2,X24MIN,X24MIN,9,Clocks reset and boot,input
+K1,X24MOUT,X24MOUT,9,Clocks reset and boot,passive
+P3,X32KFOUT,X32KFOUT,9,Clocks reset and boot,passive
+V5,X32KIN,X32KIN,9,Clocks reset and boot,input
+U4,X32KOUT,X32KOUT,9,Clocks reset and boot,passive
+D11,PA0,PA0/UART2_TX,10,GPIO UART SPI I2C,bidirectional
+D5,PA1,PA1/UART2_RX,10,GPIO UART SPI I2C,bidirectional
+D6,PA2,PA2/UART2_RTS,10,GPIO UART SPI I2C,bidirectional
+E13,PA3,PA3/UART2_CTS,10,GPIO UART SPI I2C,bidirectional
+F5,PA4,PA4/UART0_TX,10,GPIO UART SPI I2C,bidirectional
+H6,PA5,PA5/UART0_RX/PWM0,10,GPIO UART SPI I2C,bidirectional
+E14,PA6,PA6/SIM_PWREN,10,GPIO UART SPI I2C,bidirectional
+D8,PA7,PA7/SIM_CLK,10,GPIO UART SPI I2C,bidirectional
+F13,PA8,PA8/SIM_DATA,10,GPIO UART SPI I2C,bidirectional
+D13,PA9,PA9/SIM_RST,10,GPIO UART SPI I2C,bidirectional
+E11,PA10,PA10/SIM_DET,10,GPIO UART SPI I2C,bidirectional
+F11,PA11,PA11/TWI0_SCK,10,GPIO UART SPI I2C,bidirectional
+C13,PA12,PA12/TWI0_SDA,10,GPIO UART SPI I2C,bidirectional
+E15,PA13,PA13/SPI1_CS/UART3_TX,10,GPIO UART SPI I2C,bidirectional
+G12,PA14,PA14/SPI1_CLK/UART3_RX,10,GPIO UART SPI I2C,bidirectional
+F14,PA15,PA15/SPI1_MOSI/UART3_RTS,10,GPIO UART SPI I2C,bidirectional
+D15,PA16,PA16/SPI1_MISO/UART3_CTS,10,GPIO UART SPI I2C,bidirectional
+C14,PA17,PA17/OWA_OUT,10,GPIO UART SPI I2C,bidirectional
+B13,PA18,PA18/PCM0_SYNC/TWI1_SCK,10,GPIO UART SPI I2C,bidirectional
+B14,PA19,PA19/PCM0_CLK/TWI1_SDA,10,GPIO UART SPI I2C,bidirectional
+A13,PA20,PA20/PCM0_DOUT,10,GPIO UART SPI I2C,bidirectional
+A14,PA21,PA21/PCM0_DIN,10,GPIO UART SPI I2C,bidirectional
+C15,PC0,PC0/SPI0_MOSI,10,GPIO UART SPI I2C,bidirectional
+C16,PC1,PC1/SPI0_MISO,10,GPIO UART SPI I2C,bidirectional
+B16,PC2,PC2/SPI0_CLK,10,GPIO UART SPI I2C,bidirectional
+B15,PC3,PC3/SPI0_CS,10,GPIO UART SPI I2C,bidirectional
+F16,PC4,PC4,10,GPIO UART SPI I2C,bidirectional
+A16,PC7,PC7,10,GPIO UART SPI I2C,bidirectional
+B10,PE0,PE0/CSI_PCLK,11,Camera CSI and GPIO E,bidirectional
+A10,PE1,PE1/CSI_MCLK,11,Camera CSI and GPIO E,bidirectional
+B11,PE2,PE2/CSI_HSYNC,11,Camera CSI and GPIO E,bidirectional
+C10,PE3,PE3/CSI_VSYNC,11,Camera CSI and GPIO E,bidirectional
+C9,PE4,PE4/CSI_D0,11,Camera CSI and GPIO E,bidirectional
+E10,PE5,PE5/CSI_D1,11,Camera CSI and GPIO E,bidirectional
+D10,PE6,PE6/CSI_D2,11,Camera CSI and GPIO E,bidirectional
+C8,PE7,PE7/CSI_D3,11,Camera CSI and GPIO E,bidirectional
+C11,PE8,PE8/CSI_D4,11,Camera CSI and GPIO E,bidirectional
+C12,PE9,PE9/CSI_D5,11,Camera CSI and GPIO E,bidirectional
+E8,PE10,PE10/CSI_D6,11,Camera CSI and GPIO E,bidirectional
+A11,PE11,PE11/CSI_D7,11,Camera CSI and GPIO E,bidirectional
+B12,PE12,PE12/CSI_SCK/TWI2_SCK,11,Camera CSI and GPIO E,bidirectional
+C7,PE13,PE13/CSI_SDA/TWI2_SDA,11,Camera CSI and GPIO E,bidirectional
+C6,PE14,PE14,11,Camera CSI and GPIO E,bidirectional
+C5,PE15,PE15,11,Camera CSI and GPIO E,bidirectional
+N1,PL0,PL0/S_TWI_SCK,12,Always-on GPIO L,bidirectional
+M1,PL1,PL1/S_TWI_SDA,12,Always-on GPIO L,bidirectional
+P2,PL2,PL2/S_UART_TX,12,Always-on GPIO L,bidirectional
+R1,PL3,PL3/S_UART_RX,12,Always-on GPIO L,bidirectional
+N2,PL4,PL4/S_JTAG_MS,12,Always-on GPIO L,bidirectional
+R2,PL5,PL5/S_JTAG_CK,12,Always-on GPIO L,bidirectional
+T4,PL6,PL6/S_JTAG_DO,12,Always-on GPIO L,bidirectional
+T3,PL7,PL7/S_JTAG_DI,12,Always-on GPIO L,bidirectional
+T2,PL8,PL8,12,Always-on GPIO L,bidirectional
+M6,PL9,PL9,12,Always-on GPIO L,bidirectional
+V2,PL10,PL10/S_PWM,12,Always-on GPIO L,bidirectional
+U2,PL11,PL11/S_CIR_RX,12,Always-on GPIO L,bidirectional
+V3,AVCC,AVCC,13,Power supplies,power_in
+G7,EPHY_VCC,EPHY_VCC,13,Power supplies,power_in
+F8,EPHY_VDD,EPHY_VDD,13,Power supplies,power_in
+J6,HVCC,HVCC,13,Power supplies,power_in
+M4,RTC_VIO,RTC_VIO,13,Power supplies,power_in
+T16,SVREF,SVREF,13,Power supplies,power_in
+G9,V33_TV,V33_TV,13,Power supplies,power_in
+L16,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+M16,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+N16,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+P16,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+P17,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+R16,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+T12,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+T13,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+T14,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+T15,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+U11,VCC-DRAM,VCC-DRAM,13,Power supplies,power_in
+G13,VCC_IO,VCC_IO,13,Power supplies,power_in
+G14,VCC_IO,VCC_IO,13,Power supplies,power_in
+G15,VCC_IO,VCC_IO,13,Power supplies,power_in
+H13,VCC_IO,VCC_IO,13,Power supplies,power_in
+H14,VCC_IO,VCC_IO,13,Power supplies,power_in
+J14,VCC_IO,VCC_IO,13,Power supplies,power_in
+J15,VCC_PD,VCC_PD,13,Power supplies,power_in
+H7,VCC_PG,VCC_PG,13,Power supplies,power_in
+N3,VCC_PLL,VCC_PLL,13,Power supplies,power_in
+K6,VCC_RTC,VCC_RTC,13,Power supplies,power_in
+G11,VCC_USB,VCC_USB,13,Power supplies,power_in
+H10,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+J10,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+J11,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+J12,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+K10,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+K11,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+K12,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+L10,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+L11,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+L12,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+L13,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+L14,VDD-SYS,VDD-SYS,13,Power supplies,power_in
+J7,VDD_CPUS,VDD_CPUS,13,Power supplies,power_in
+J8,VDD_CPUS,VDD_CPUS,13,Power supplies,power_in
+N8,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+P6,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+P7,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+P8,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+P9,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+R6,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+R7,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+R8,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+T6,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+T7,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+T8,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+U6,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+U9,VDD_CPUX,VDD_CPUX,13,Power supplies,power_in
+G10,VDD_EFUSE,VDD_EFUSE,13,Power supplies,power_in
+H11,VDD_EFUSEEBP,VDD_EFUSEEBP,13,Power supplies,power_in
+U3,AGND,AGND,14,Ground,power_in
+A21,GND,GND,14,Ground,power_in
+AA1,GND,GND,14,Ground,power_in
+G8,GND,GND,14,Ground,power_in
+H12,GND,GND,14,Ground,power_in
+H15,GND,GND,14,Ground,power_in
+J9,GND,GND,14,Ground,power_in
+J13,GND,GND,14,Ground,power_in
+J16,GND,GND,14,Ground,power_in
+K7,GND,GND,14,Ground,power_in
+K8,GND,GND,14,Ground,power_in
+K9,GND,GND,14,Ground,power_in
+K13,GND,GND,14,Ground,power_in
+K14,GND,GND,14,Ground,power_in
+K15,GND,GND,14,Ground,power_in
+K16,GND,GND,14,Ground,power_in
+L8,GND,GND,14,Ground,power_in
+L9,GND,GND,14,Ground,power_in
+L15,GND,GND,14,Ground,power_in
+M7,GND,GND,14,Ground,power_in
+M8,GND,GND,14,Ground,power_in
+M9,GND,GND,14,Ground,power_in
+M10,GND,GND,14,Ground,power_in
+M11,GND,GND,14,Ground,power_in
+M12,GND,GND,14,Ground,power_in
+M13,GND,GND,14,Ground,power_in
+M14,GND,GND,14,Ground,power_in
+M15,GND,GND,14,Ground,power_in
+N7,GND,GND,14,Ground,power_in
+N9,GND,GND,14,Ground,power_in
+N10,GND,GND,14,Ground,power_in
+N11,GND,GND,14,Ground,power_in
+N12,GND,GND,14,Ground,power_in
+N13,GND,GND,14,Ground,power_in
+N14,GND,GND,14,Ground,power_in
+N15,GND,GND,14,Ground,power_in
+P10,GND,GND,14,Ground,power_in
+P11,GND,GND,14,Ground,power_in
+P12,GND,GND,14,Ground,power_in
+P13,GND,GND,14,Ground,power_in
+P14,GND,GND,14,Ground,power_in
+P15,GND,GND,14,Ground,power_in
+R9,GND,GND,14,Ground,power_in
+R10,GND,GND,14,Ground,power_in
+R11,GND,GND,14,Ground,power_in
+R12,GND,GND,14,Ground,power_in
+R13,GND,GND,14,Ground,power_in
+R14,GND,GND,14,Ground,power_in
+T11,GND,GND,14,Ground,power_in
+T9,GND-CPUFB,GND-CPUFB,14,Ground,power_in
+H8,GND_TV,GND_TV,14,Ground,power_in
+M5,HGND,HGND,14,Ground,power_in
