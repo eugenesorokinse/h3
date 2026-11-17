@@ -55,6 +55,24 @@
 					(hide yes)
 				)
 			)
+			(property "partnumber" "H3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "manufacturer" "Allwinner"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "H3_1_1"
 				(unit_name "DDR3 memory")
 				(rectangle
@@ -6657,6 +6675,24 @@
 			)
 		)
 		(property "Description" "Allwinner H3 quad Cortex-A7, FBGA347 14x14mm pitch 0.65mm; 14 functional units"
+			(at 147.32 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "partnumber" "H3"
+			(at 147.32 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manufacturer" "Allwinner"
 			(at 147.32 46.99 0)
 			(effects
 				(font

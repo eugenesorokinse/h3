@@ -55,6 +55,24 @@
 					(hide yes)
 				)
 			)
+			(property "partnumber" "H3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "manufacturer" "Allwinner"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "H3_1_1"
 				(unit_name "DDR3 memory")
 				(rectangle
@@ -6665,6 +6683,24 @@
 				(hide yes)
 			)
 		)
+		(property "partnumber" "H3"
+			(at 172.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manufacturer" "Allwinner"
+			(at 172.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "F5"
 			(uuid "ebc43bbb-e87d-4dcf-95e7-ffdfd5803d12")
 		)
@@ -7760,6 +7796,24 @@
 			)
 		)
 		(property "Description" "Allwinner H3 quad Cortex-A7, FBGA347 14x14mm pitch 0.65mm; 14 functional units"
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "partnumber" "H3"
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manufacturer" "Allwinner"
 			(at 92.71 74.93 0)
 			(effects
 				(font
